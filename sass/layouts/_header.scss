@@ -16,14 +16,15 @@
     transition-property: color;
     transition-duration: 250ms;
     transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
-    &-mail:hover,
-    &-mail:focus,
-    &-phone:hover,
-    &-phone:focus {
-      color: var(--accent-color);
-    }
+  }
+  &-mail:hover,
+  &-mail:focus,
+  &-phone:hover,
+  &-phone:focus {
+    color: var(--accent-color);
   }
 }
+
 // .header-logo {
 //   color: var(--black-color);
 // //   margin-right: 93px;

@@ -123,7 +123,7 @@ img {
   transition-duration: 250ms;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
 }
-.header-mail-mail:hover, .header-mail-mail:focus, .header-mail-phone:hover, .header-mail-phone:focus, .header-phone-mail:hover, .header-phone-mail:focus, .header-phone-phone:hover, .header-phone-phone:focus {
+.header-mail:hover, .header-mail:focus, .header-phone:hover, .header-phone:focus {
   color: var(--accent-color);
 }
 
